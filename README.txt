@@ -1,5 +1,4 @@
 
-- Karimshan Nawaz (11305835)
 - CSCE 3530 Lab 1: Proxy server that requests webpage content and sends it back to the client that requested it.
 
 PLEASE NOTE: when running the program, use "make all" to compile and to run the program,
@@ -43,4 +42,3 @@ and that there is no loss of data. The socket connections are closed afterwards,
 server and client connections are also terminated on the linux machines.
 
 
-- Karimshan Nawaz
